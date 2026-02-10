@@ -1,5 +1,4 @@
-## Secora APII – Data Analytics Internship  
-**Project: One-Page Asset Management Plan (AMP) Dashboard**
+## Asset Management Analytics Dashboard – Secora (Internship)
 
 ### Problem Statement
 Secora uses a Lifecycle Management Metric (LMM) dashboard to monitor asset health and financial risk across portfolios. While effective at a high level, the LMM dashboard primarily provides portfolio-level insights through clustered visuals and heatmaps, making it difficult for stakeholders to:
